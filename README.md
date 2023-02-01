@@ -1,2 +1,4 @@
 # compeditive_coading
 all online codes
+
+1)- Array1.c - GIVEN TWO SORTED ARRAYS, MERGE THEM AND PRINT THEIR ELEMENTS INTO THIRD ARRAY IN SORTED FORM.
